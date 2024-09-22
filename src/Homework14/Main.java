@@ -11,7 +11,7 @@ public class Main {
 
 
 
-        Validator2 v = new Validator2("C:\\Users\\vovaz\\OneDrive\\Рабочий стол\\validdocs.txt",
+        Validator v = new Validator("C:\\Users\\vovaz\\OneDrive\\Рабочий стол\\validdocs.txt",
         "C:\\Users\\vovaz\\OneDrive\\Рабочий стол\\errdocs.txt");
         v.validate();
 
